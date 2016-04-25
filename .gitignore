@@ -1,0 +1,13 @@
+## Ignore Visual Studio temporary files
+*.suo
+*.user
+*sln.docstates
+
+# build results
+
+[Dd]ebug
+[Rr]elease
+build/
+
+
+
